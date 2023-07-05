@@ -13,14 +13,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-<summary>GitHub Statistics (click )</summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashmitcajla&show_icons=true&locale=en&layout=compact" alt="ashmitcajla" /></p>
 
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashmitcajla&show_icons=true&locale=en&layout=compact&theme=radical" alt="ashmitcajla" /> </p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanav2202&show_icons=true&locale=en" alt="tanav2202" /></p>? -->
-
-
-<p  >
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashmitcajla&show_icons=true&locale=en" alt="ashmitcajla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashmitcajla&" alt="ashmitcajla" /></p>
