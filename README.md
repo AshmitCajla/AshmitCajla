@@ -59,14 +59,6 @@
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashmitcajla&show_icons=true&locale=en" alt="ashmitcajla" />
-</p>
-
----
-
 ✨ **Fun Fact:** I enjoy turning coffee ☕ into impactful code and building products that live on the edge of creativity and tech.
 
 ---
