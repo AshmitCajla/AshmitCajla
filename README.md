@@ -24,7 +24,7 @@
 
 💻 **About Me**
 
-- 🎓 Pursuing B.Sc. in Data Science at IIT Madras & B.E. in Computer Engineering from Thapar Institute.
+- 🎓 Pursuing B.Sc. in Data Science at IIT Madras & B.E. in Electronics and Computer Engineering from Thapar Institute.
 - 💡 Frontend Developer, Data Scientist, and Generative AI Explorer.
 - 🌱 Exploring Deep Learning, Full-Stack Development, and AI product development.
 - 📬 Reach me at: **cajlausa@gmail.com**
